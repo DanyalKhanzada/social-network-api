@@ -41,3 +41,17 @@ To make requests to the database:
 1. In the root directory of the app, start the server by entering `npm start` in the command line.
 2. Enter the URL `http://localhost:3001/api` in Insomnia Core.
 3. In Insomnia Core, you can make GET, POST, PUT, and DELETE requests for users, thoughts, and reactions.
+
+## Questions
+For additional questions, contact Danyal:
+
+GitHub: [DanyalKhanzada](https://github.com/DanyalKhanzada)
+
+## Built Using
+- JavaScript
+- Node.js
+- Express.js
+- MongoDB with Mongoose ODM
+
+## License
+Under the MIT license, this material is free to modify and distribute for commercial or private use. See [here](https://opensource.org/licenses/MIT) for more details.
